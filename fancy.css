@@ -39,6 +39,17 @@ a {
 
 
 
+
+
+/* id-based rule */
+#bold { 
+	font-weight: bold;
+}
+/* class-based rule */
+.red { 
+	color: red;
+}
+
 td {
 	border: 5px solid black;
 	width: 100px;
